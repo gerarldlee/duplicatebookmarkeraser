@@ -1,0 +1,15 @@
+{
+  "name": "Duplicate Bookmarks Eraser",
+  "version": "1.0",
+  "description": "A popup dump of all duplicate bookmarks, with an option to select which of the duplicates are to be deleted.",
+  "permissions": [
+    "bookmarks"
+  ],
+  "browser_action": {
+      "default_title": "Duplicate Bookmarks Eraser",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}

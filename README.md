@@ -1,4 +1,4 @@
-# duplicatebookmarkeraser
+# Duplicate Bookmark Eraser
 A simple duplicate bookmark eraser for Google Chrome Extension plugin.
 
 # Description
